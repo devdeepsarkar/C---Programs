@@ -1,2 +1,2 @@
-Most frequent: 2
-least frequent: 3
+5
+5
